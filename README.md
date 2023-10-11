@@ -1,7 +1,7 @@
 # todolist
-Project for practice of Java
+Project for the practice of Java
 
-Following a RocketSeat event, this repository has a purpose of archieving my studies to remember Java, that I didn't use since college.
+Following a RocketSeat event, this repository has a purpose of archiving my studies to remember Java, that I didn't use since college.
 
 ---
 
